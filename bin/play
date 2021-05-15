@@ -9,3 +9,7 @@ display_board(board)
 
 
 play(board)
+<<<<<<< HEAD
+=======
+# Make sure to execute #play below
+>>>>>>> be41a1a3307ecf1906b98a8c5c97f7d4ca85e0f0
